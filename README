@@ -1,0 +1,3 @@
+Solves the UVa Online Judge problem 120, stack of flapjacks. The idea is
+merely to read in a series of integers, and flip them until they are in
+order.
